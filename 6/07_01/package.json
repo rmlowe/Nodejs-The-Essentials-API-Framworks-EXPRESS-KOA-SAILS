@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/bTreePress/NodeJS-Up-And-Running/issues"
   },
-  "homepage": "https://github.com/bTreePress/NodeJS-Up-And-Running#readme"
+  "homepage": "https://github.com/bTreePress/NodeJS-Up-And-Running#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-fs": "^1.2.0"
+  }
 }
